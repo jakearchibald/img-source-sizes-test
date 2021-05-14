@@ -1,0 +1,494 @@
+[
+  [
+    "https://us.radiocut.fm/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://thewingbarn.com/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://ningrumshop.com/",
+    "Fetch failed: Response code 402 (Payment Required)"
+  ],
+  [
+    "https://www.gigsign.net/",
+    "Fetch failed: certificate has expired"
+  ],
+  [
+    "https://www.optimalegezondheid.com/",
+    "Fetch failed: Response code 500 (Internal Server Error)"
+  ],
+  [
+    "https://greenweddingshoes.com/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://valentusslimroastcoffee.com/",
+    "Fetch failed: Hostname/IP does not match certificate's altnames: Host: valentusslimroastcoffee.com. is not in the cert's altnames: DNS:shortener.secureserver.net, DNS:www.shortener.secureserver.net"
+  ],
+  [
+    "https://radiocut.fm/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://achievingfamilygoals.com/",
+    "Fetch failed: certificate has expired"
+  ],
+  [
+    "https://biggrowthsummit.com/",
+    "Fetch failed: Client network socket disconnected before secure TLS connection was established"
+  ],
+  [
+    "https://ph.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "http://iobgerenciaxml.sage.com.br/",
+    "Fetch failed: getaddrinfo ENOTFOUND iobgerenciaxml.sage.com.br"
+  ],
+  [
+    "https://it.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://www.metergroup.com/",
+    "Fetch failed: unable to verify the first certificate"
+  ],
+  [
+    "https://events.timesunion.com/",
+    "Fetch failed: Hostname/IP does not match certificate's altnames: Host: events.timesunion.com. is not in the cert's altnames: DNS:unavailable.hearstnp.com"
+  ],
+  [
+    "https://akademia-finansow.eu/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://se.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "http://www.linnlowesfit.com/",
+    "Fetch failed: getaddrinfo ENOTFOUND www.linnlowesfit.com"
+  ],
+  [
+    "https://blueprintspotlightonline.splashthat.com/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://prideisgood.com/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://dc-easternpa.app.bbb.org/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://womensmeditationnetwork.com/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://mex.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://city-market.berdu.pw/",
+    "Fetch failed: Response code 402 (Payment Required)"
+  ],
+  [
+    "https://il.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://www.subtypestore.com/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://tvbox.starnet.md/",
+    "Fetch failed: getaddrinfo ENOTFOUND tvbox.starnet.md"
+  ],
+  [
+    "https://events.ctpost.com/",
+    "Fetch failed: Hostname/IP does not match certificate's altnames: Host: events.ctpost.com. is not in the cert's altnames: DNS:unavailable.hearstnp.com"
+  ],
+  [
+    "https://sukceszpasja.pl/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://pe.radiocut.fm/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://cl.radiocut.fm/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://www.sagestart.com.br/",
+    "Fetch failed: Response code 503 (Service Unavailable: Back-end server is at capacity)"
+  ],
+  [
+    "https://noisemonitoring.co.uk/",
+    "Fetch failed: certificate has expired"
+  ],
+  [
+    "https://herbalbooster.store/",
+    "Fetch failed: getaddrinfo ENOTFOUND herbalbooster.store"
+  ],
+  [
+    "https://ve.radiocut.fm/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://ecotab.de/",
+    "Fetch failed: Hostname/IP does not match certificate's altnames: Host: ecotab.de. is not in the cert's altnames: DNS:myshopify.com, DNS:*.myshopify.com"
+  ],
+  [
+    "https://www.book-a-flat.com/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://excel.tv/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://www.aquaverve.com/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://myedibleschef.com/",
+    "Fetch failed: getaddrinfo ENOTFOUND myedibleschef.com"
+  ],
+  [
+    "https://adobe-reader.ru/",
+    "Fetch failed: getaddrinfo ENOTFOUND adobe-reader.ru"
+  ],
+  [
+    "https://nl.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "http://nashville.app.bbb.org/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://th.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://billpenor.com/",
+    "Fetch failed: getaddrinfo ENOTFOUND billpenor.com"
+  ],
+  [
+    "https://uy.radiocut.fm/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://www.librex.co.uk/",
+    "Fetch failed: unable to verify the first certificate"
+  ],
+  [
+    "http://events.chron.com/",
+    "Fetch failed: Response code 451 (Unavailable For Legal Reasons)"
+  ],
+  [
+    "https://www.patarumpu.fi/",
+    "Fetch failed: getaddrinfo ENOTFOUND www.patarumpu.fi"
+  ],
+  [
+    "https://www.editus.lu/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://expeditiontofreedom.com/",
+    "Fetch failed: Hostname/IP does not match certificate's altnames: Host: expeditiontofreedom.com. is not in the cert's altnames: DNS:*.kasserver.com, DNS:kasserver.com"
+  ],
+  [
+    "https://co.radiocut.fm/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://www.bmw.kz/",
+    "Fetch failed: certificate has expired"
+  ],
+  [
+    "https://munin.buzz/",
+    "Fetch failed: Hostname/IP does not match certificate's altnames: Host: munin.buzz. is not in the cert's altnames: DNS:www.munin.buzz"
+  ],
+  [
+    "https://www.saldo.com.ar/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://meisterkuchen.nl/",
+    "Fetch failed: write EPROTO 4523302400:error:14094458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 112\n"
+  ],
+  [
+    "https://shopviu.com/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "http://home.foni.net/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://ru.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://www.pxg.com/",
+    "Fetch failed: unknown compression method"
+  ],
+  [
+    "https://www.muirglen.com/",
+    "Fetch failed: unable to verify the first certificate"
+  ],
+  [
+    "https://www.lanecoveholidaypark.com.au/",
+    "Fetch failed: connect ECONNREFUSED 202.124.241.178:443"
+  ],
+  [
+    "https://tespsikotes.web.id/",
+    "Fetch failed: Response code 402 (Payment Required)"
+  ],
+  [
+    "https://vn.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://www.teslarwatches.com/",
+    "Fetch failed: Hostname/IP does not match certificate's altnames: Host: www.teslarwatches.com. is not in the cert's altnames: DNS:shortener.secureserver.net, DNS:www.shortener.secureserver.net"
+  ],
+  [
+    "https://bellbroshvac.com/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://nashville.app.bbb.org/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://norfolk.app.bbb.org/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://www.usahealthsystem.com/",
+    "Fetch failed: unable to verify the first certificate"
+  ],
+  [
+    "https://hu.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://easylanguagemastery.com/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://ro.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://de.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://mindfulnessexercises.com/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://id.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://www.pioneertheatre.org/",
+    "Fetch failed: unable to verify the first certificate"
+  ],
+  [
+    "https://events.mysanantonio.com/",
+    "Fetch failed: Hostname/IP does not match certificate's altnames: Host: events.mysanantonio.com. is not in the cert's altnames: DNS:unavailable.hearstnp.com"
+  ],
+  [
+    "https://ar.radiocut.fm/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://izifloor.fr/",
+    "Fetch failed: read ECONNRESET"
+  ],
+  [
+    "https://www.bistu.edu.cn/",
+    "Fetch failed: unable to verify the first certificate"
+  ],
+  [
+    "https://pt.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://id.radiocut.fm/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://medmountainpal.com/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://www.chexmix.com/",
+    "Fetch failed: unable to verify the first certificate"
+  ],
+  [
+    "https://www.overland.com/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "http://stlouis.app.bbb.org/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://mx.radiocut.fm/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://spartacus.com/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://www.traegergrills.ca/",
+    "Fetch failed: Response code 500 (Internal Server Error)"
+  ],
+  [
+    "https://www.a-qui-s.fr/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://www.excellencepersonnelle.net/",
+    "Fetch failed: Hostname/IP does not match certificate's altnames: Host: www.excellencepersonnelle.net. is not in the cert's altnames: DNS:cluster011.hosting.ovh.net, DNS:www.cluster011.hosting.ovh.net"
+  ],
+  [
+    "https://www.stihldealer.net/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://hr.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://www.e-infin.com/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://my.radiocut.fm/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://www.todaywespray.com/",
+    "Fetch failed: unable to verify the first certificate"
+  ],
+  [
+    "https://cz.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://ae.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://www.flexagil.hu/",
+    "Fetch failed: Response code 502 (Bad Gateway)"
+  ],
+  [
+    "https://kayosports.com.au/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://www.fansale.it/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://www.fansale.ch/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://ar.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://vemprafam.com.br/",
+    "Fetch failed: unable to verify the first certificate"
+  ],
+  [
+    "https://balanceathletica.co/",
+    "Fetch failed: write EPROTO 4523302400:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:../deps/openssl/openssl/ssl/record/ssl3_record.c:332:\n"
+  ],
+  [
+    "https://www.stromspa.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://saldo.com.ar/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://nextgenerationacademy.net/",
+    "Fetch failed: Hostname/IP does not match certificate's altnames: Host: nextgenerationacademy.net. is not in the cert's altnames: DNS:*.wpmudev.host, DNS:wpmudev.host"
+  ],
+  [
+    "https://www.tgblaw.com/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://www.debijenkorf.nl/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://www.cheerios.com/",
+    "Fetch failed: unable to verify the first certificate"
+  ],
+  [
+    "https://memphis.app.bbb.org/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://esports.dreamhack.com/",
+    "Fetch failed: getaddrinfo ENOTFOUND esports.dreamhack.com"
+  ],
+  [
+    "https://soulpreneursuccesscode.com/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ],
+  [
+    "https://es.radiocut.fm/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://getsafebreath.com/",
+    "Fetch failed: Response code 404 (Not Found)"
+  ],
+  [
+    "https://insomniacookies.com/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://lp.sukceszpasja.pl/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "http://greenweddingshoes.com/",
+    "Fetch failed: Response code 403 (Forbidden)"
+  ],
+  [
+    "https://fr.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "http://www1.casopiszdravie.sk/",
+    "Fetch failed: getaddrinfo ENOTFOUND www1.casopiszdravie.sk"
+  ],
+  [
+    "https://co.000webhost.com/",
+    "Fetch failed: Response code 503 (Service Temporarily Unavailable)"
+  ],
+  [
+    "https://arkansas.app.bbb.org/",
+    "Fetch failed: Timeout awaiting 'request' for 30000ms"
+  ]
+]
